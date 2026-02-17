@@ -73,7 +73,8 @@ ED triage prediction pipeline (structured + text) with calibration + fairness.
 <img src="https://img.shields.io/badge/BigQuery-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
 </div>
----
+
+
 
 ## 🤖 Models I Use
 - Ollama (local LLMs)
