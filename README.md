@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Top banner (blue) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:1D4ED8,100:06B6D4&height=180&section=header&text=Olaoluwa%20Malachi&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:1D4ED8,100:0B3D91&height=180&section=header&text=Olaoluwa%20Malachi&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
 
 ### AI Engineer (Agents + Automation) • Data Science • Applied Research
 
@@ -15,7 +15,7 @@ Building **LLM agents**, **RAG systems**, and **automation tools** that turn kno
   <img src="https://img.shields.io/badge/Email-0B3D91?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Malachi216">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <!-- Profile views (wrapped so clicking doesn't open the image alone) -->
@@ -101,5 +101,5 @@ ED triage prediction pipeline (structured + text) with calibration + fairness.
 
 <!-- Bottom banner (blue) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0B3D91&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:1D4ED8,100:0B3D91&height=120&section=footer" />
 </div>
