@@ -77,7 +77,9 @@ ED triage prediction pipeline (structured + text) with calibration + fairness.
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 </div>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,sklearn,pytorch,gcp,firebase,streamlit&perline=7" />
+</div>
 </div>
 
 ---
