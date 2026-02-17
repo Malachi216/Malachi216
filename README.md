@@ -67,5 +67,5 @@ ED triage prediction pipeline (structured + text) with calibration + fairness.
 ## 📫 Contact
 
 📧 olaoluwa.malachi@unb.ca  
-🔗 LinkedIn: *(add link)*  
+🔗 LinkedIn: *[(add link)](https://www.linkedin.com/in/olaoluwa-malachi/)*  
 🌐 Portfolio: *(add later)*
