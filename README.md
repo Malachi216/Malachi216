@@ -72,16 +72,7 @@ ED triage prediction pipeline (structured + text) with calibration + fairness.
 <img src="https://img.shields.io/badge/Google%20Cloud-1E40AF?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/BigQuery-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
-<div align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 </div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,sklearn,pytorch,gcp,firebase,streamlit&perline=7" />
-</div>
-</div>
-
 ---
 
 ## 🤖 Models I Use
