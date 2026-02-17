@@ -83,14 +83,16 @@ ED triage prediction pipeline (structured + text) with calibration + fairness.
 
 ---
 
-## 📊 GitHub Stats (Visual)
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Malachi216&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malachi216&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Malachi216&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malachi216&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 
 </div>
+
 
 ---
 
