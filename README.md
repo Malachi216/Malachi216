@@ -54,6 +54,7 @@ ED triage prediction pipeline (structured + text) with calibration + fairness.
 <div align="center">
 
 <!-- Languages -->
+<a href="https://github.com/Malachi216">
 <img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-0B3D91?style=for-the-badge&logo=postgresql&logoColor=white" />
 
@@ -72,6 +73,7 @@ ED triage prediction pipeline (structured + text) with calibration + fairness.
 <img src="https://img.shields.io/badge/Google%20Cloud-1E40AF?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/BigQuery-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
+</a>
 </div>
 
 
@@ -86,9 +88,9 @@ ED triage prediction pipeline (structured + text) with calibration + fairness.
 ## 📊 GitHub Stats
 
 <div align="center">
-
+<a href="https://github.com/Malachi216">
 <img height="165" src="https://streak-stats.demolab.com?user=Malachi216&theme=tokyonight&hide_border=true" />
-
+</a>
 </div>
 
 
