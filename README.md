@@ -46,6 +46,7 @@ Web search → cited summaries → persistent memory (RAG).
 ### 🏥 Multimodal AI Triage (MSc Research)
 ED triage prediction pipeline (structured + text) with calibration + fairness.  
 ➡️ Repo: https://github.com/Malachi216/ed-triage-icu24h
+Current State: Simulations ongoing
 
 ---
 
