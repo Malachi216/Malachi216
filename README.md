@@ -36,7 +36,7 @@ Building **LLM agents**, **RAG systems**, and **automation tools** that turn kno
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔎 RAG Web Research Agent
 **LangChain + ChromaDB + Streamlit + Ollama**  
