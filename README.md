@@ -3,7 +3,7 @@
 <!-- Top banner (blue) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:1D4ED8,100:06B6D4&height=180&section=header&text=Olaoluwa%20Malachi&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
 
-### AI Engineer (Agents + Automation) • Data  • Applied Research
+### AI Engineer (Agents + Automation) • Data Science • Applied Research
 
 Building **LLM agents**, **RAG systems**, and **automation tools** that turn knowledge + data into usable products.
 
