@@ -68,7 +68,7 @@ Building **deployable AI, machine learning, RAG, and decision-support systems**.
 
 ### 🚑 EmergencyAI
 **XGBoost • Calibration • SHAP • Decision Support • Full-Stack Deployment**  
-AI-powered emergency risk prediction and decision-support application.
+AI-powered emergency risk prediction and decision-support application.  
 ➡️ [Active deployment](https://emergencyai-six.vercel.app/)
 
 ### 💼 JobReady
