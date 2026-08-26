@@ -23,11 +23,11 @@ Building **deployable AI, machine learning, RAG, and decision-support systems**.
 ## 🔥 Focus
 
 - Applied Machine Learning & Data Science
+- Data Analytics, Pipelines & Applications
 - RAG, NLP & LLM Applications
 - AI Decision-Support Systems
 - Model Calibration, SHAP & Explainability
 - AI Automation & Deployable Applications
-
 ---
 
 ## 🧰 Technologies
