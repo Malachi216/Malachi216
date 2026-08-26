@@ -1,24 +1,17 @@
 <div align="center">
 
-<!-- Top banner (blue) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:1D4ED8,100:06B6D4&height=180&section=header&text=Olaoluwa%20Malachi&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
 
-### AI Engineer (Agents + Automation) • Data Science • Applied Research
+### AI / Machine Learning Engineer • Data Science • RAG Systems
 
-Building **LLM agents**, **RAG systems**, and **automation tools** that turn knowledge + data into usable products.
+Building **deployable AI, machine learning, RAG, and decision-support systems**.
 
-<!-- Quick links -->
 <a href="https://www.linkedin.com/in/olaoluwa-malachi/">
   <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:olaoluwa.malachi@unb.ca">
   <img src="https://img.shields.io/badge/Email-0B3D91?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/Malachi216">
-  <img src="https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!-- Profile views (wrapped so clicking doesn't open the image alone) -->
 <a href="https://github.com/Malachi216">
   <img src="https://komarev.com/ghpvc/?username=Malachi216&style=for-the-badge&color=1D4ED8" />
 </a>
@@ -27,66 +20,74 @@ Building **LLM agents**, **RAG systems**, and **automation tools** that turn kno
 
 ---
 
-## 🔥 Focus Areas
+## 🔥 Focus
 
-- Agentic AI (tools, workflows, orchestration)
-- RAG + Vector Databases
-- Data Science & ML (evaluation, calibration, reliability)
-- AI Applications (triage + decision support)
+- Applied Machine Learning & Data Science
+- RAG, NLP & LLM Applications
+- AI Decision-Support Systems
+- Model Calibration, SHAP & Explainability
+- AI Automation & Deployable Applications
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔎 RAG Web Research Agent
-**LangChain + ChromaDB + Streamlit + Ollama**  
-Web search → cited summaries → persistent memory (RAG).  
-➡️ Repo: https://github.com/Malachi216/rag-web-research-agent
+### 🚑 EmergencyAI
+**XGBoost • Calibration • SHAP • Decision Support • Full-Stack Deployment**  
+AI-powered emergency risk prediction and decision-support application.
 
-### 🏥 Multimodal AI Triage (MSc Research)
-ED triage prediction pipeline (structured + text) with calibration + fairness.  
-➡️ Repo: https://github.com/Malachi216/ed-triage-icu24h  
-Current State: Simulations ongoing
+### 💼 JobReady
+**AI • APIs • Full-Stack Web Application**  
+AI-assisted job intelligence application built as a deployment-focused reference project.  
+➡️ [Repository](https://github.com/Malachi216/jobready_reference_project)
+
+### 🔎 RAG Web Research Agent
+**LangChain • ChromaDB • Streamlit • Ollama**  
+Web search → cited answers → vector retrieval → persistent memory.  
+➡️ [Repository](https://github.com/Malachi216/rag-web-research-agent)
+
+### 🏥 AI Triage Research
+**ML • NLP • Calibration • Uncertainty • SHAP**  
+ICU risk prediction and uncertainty-aware emergency resource prioritization.  
+➡️ [Repository](https://github.com/Malachi216/ed-triage-icu24h)
 
 ---
 
-## 🧰 Tech Stack (Badges)
+## 🧰 Technologies
 
 <div align="center">
 
-<!-- Languages -->
-<a href="https://github.com/Malachi216">
 <img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-0B3D91?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<!-- Agents / RAG -->
-<img src="https://img.shields.io/badge/LangChain-2563EB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-1E40AF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-0EA5E9?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logoColor=white" />
-
-<!-- ML / Data -->
+<img src="https://img.shields.io/badge/XGBoost-2563EB?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-1D4ED8?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-0B3D91?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-1E40AF?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/SHAP-0EA5E9?style=for-the-badge&logoColor=white" />
 
-<!-- Cloud / Platforms -->
-<img src="https://img.shields.io/badge/Google%20Cloud-1E40AF?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/BigQuery-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<br/>
 
-</a>
+<img src="https://img.shields.io/badge/LangChain-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-1E40AF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-2563EB?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-1E40AF?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-1D4ED8?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0B3D91?style=for-the-badge&logo=github&logoColor=white" />
+
 </div>
-
-
-
-## 🤖 Models I Use
-- Ollama (local LLMs)
-- Gemini 3 Pro (Google AI Studio)
-- Claude Opus 4.5
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 <a href="https://github.com/Malachi216">
@@ -94,15 +95,13 @@ Current State: Simulations ongoing
 </a>
 </div>
 
-
-
 ---
 
-## 📫 Connect with me
-- 📧 olaoluwa.malachi@unb.ca  
-- 🔗 LinkedIn: **[olaoluwa-malachi](https://www.linkedin.com/in/olaoluwa-malachi/)**
-
-<!-- Bottom banner (blue) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0B3D91&height=120&section=footer" />
+
+📧 **olaoluwa.malachi@unb.ca** •
+[LinkedIn](https://www.linkedin.com/in/olaoluwa-malachi/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0B3D91&height=100&section=footer" />
+
 </div>
