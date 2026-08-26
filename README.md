@@ -30,29 +30,6 @@ Building **deployable AI, machine learning, RAG, and decision-support systems**.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚑 EmergencyAI
-**XGBoost • Calibration • SHAP • Decision Support • Full-Stack Deployment**  
-AI-powered emergency risk prediction and decision-support application.
-
-### 💼 JobReady
-**AI • APIs • Full-Stack Web Application**  
-AI-assisted job intelligence application built as a deployment-focused reference project.  
-➡️ [Repository](https://github.com/Malachi216/jobready_reference_project)
-
-### 🔎 RAG Web Research Agent
-**LangChain • ChromaDB • Streamlit • Ollama**  
-Web search → cited answers → vector retrieval → persistent memory.  
-➡️ [Repository](https://github.com/Malachi216/rag-web-research-agent)
-
-### 🏥 AI Triage Research
-**ML • NLP • Calibration • Uncertainty • SHAP**  
-ICU risk prediction and uncertainty-aware emergency resource prioritization.  
-➡️ [Repository](https://github.com/Malachi216/ed-triage-icu24h)
-
----
-
 ## 🧰 Technologies
 
 <div align="center">
@@ -84,6 +61,30 @@ ICU risk prediction and uncertainty-aware emergency resource prioritization.
 <img src="https://img.shields.io/badge/GitHub-0B3D91?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🚑 EmergencyAI
+**XGBoost • Calibration • SHAP • Decision Support • Full-Stack Deployment**  
+AI-powered emergency risk prediction and decision-support application.
+➡️ [Active deployment](https://emergencyai-six.vercel.app/)
+
+### 💼 JobReady
+**AI • APIs • Full-Stack Web Application**  
+AI-assisted job intelligence application built as a deployment-focused reference project.  
+➡️ [Repository](https://github.com/Malachi216/jobready_reference_project)
+
+### 🔎 RAG Web Research Agent
+**LangChain • ChromaDB • Streamlit • Ollama**  
+Web search → cited answers → vector retrieval → persistent memory.  
+➡️ [Repository](https://github.com/Malachi216/rag-web-research-agent)
+
+### 🏥 AI Triage Research
+**ML • NLP • Calibration • Uncertainty • SHAP**  
+ICU risk prediction and uncertainty-aware emergency resource prioritization.  
+➡️ [Repository](https://github.com/Malachi216/ed-triage-icu24h)
 
 ---
 
